@@ -171,7 +171,7 @@ a > .tutorial{
 
  .hero-section {
      /*TODO: get background image- using color as standin for now*/
-     background-color: #d3d3d3;
+     background-color: #2459A9;
      text-align: center;
      padding: 150px;
  }
@@ -197,7 +197,7 @@ a > .tutorial{
 }
 
 .subhero {
-    color: #333;
+    color: #fff;
     font-size: 18px;
     font-family: Courier, sans-serif;
 }
@@ -326,7 +326,7 @@ a > .tutorial{
 }
 
 .text-gray-lighter {
-    color: #D3D3D3;
+    color: #2459A9;
 }
 
 .bg-light-gray {
@@ -347,7 +347,7 @@ a > .tutorial{
 
 .col-half-border {
     padding: 60px;
-    border: 1px solid #d3d3d3;
+    border: 1px solid #2459A9;
     margin: 12px;
 }
 
